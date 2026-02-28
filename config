@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+
+[user]
+email=3369893063@qq.com
+name=LilyLiu6161
+[remote "origin"]
+	url = https://github.com/LilyLiu6161/-mpu6050-asrpro-.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
